@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <title>List 1 - Dzień 1</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff9f9;
+      color: #333;
+      line-height: 1.6;
+      border: 2px solid #f5a623;
+      border-radius: 10px;
+    }
+    h1 {
+      text-align: center;
+      color: #f56a79;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dzień 1 - Poniedziałek</h1>
+  <p>Hejka słońce,</p>
+  <p>Dzisiaj jest pierwszy dzień odkąd się nie zobaczymy. Ten list chcę poświęcić nam i naszym wspólnym przeżyciom. Dziękuję Ci za te wszystkie cudowne i śmieszne chwile. Z każdą taką chwilą zakochuję się w Tobie coraz bardziej i wiem coraz bardziej, że to Ty masz zostać.</p>
+  <p>Muszę Ci powiedzieć, że ostatnie dni były dla mnie naprawdę wyjątkowe. Ten maraton horrorów to był świetny pomysł – filmy same w sobie były spoko, ale to, że oglądałyśmy je razem, sprawiło, że całość była jeszcze lepsza. Było tak komfortowo i miło, a to całe przytulanie sprawiło, że nawet te najbardziej straszne momenty były raczej zabawne niż przerażające. Czułam się po prostu dobrze i bezpiecznie.</p>
+  <p>A sobota, no to już w ogóle hit. Nasz urbex to była przygoda – dużo dreszczyku, trochę śmiechu. Późniejszy spacer też miał swój klimat – spokojny, ale wciąż pełen dobrych rozmów i śmiechu. No i oczywiście te nasze wygłupy na schodach – chyba nigdy się tak nie śmiałam, aż miałam łzy w oczach.</p>
+  <p>Wiele innych wspomnień, które są piękne – dziękuję Ci za wszystko, naprawdę jesteś najlepszą dziewczyną na świecie.</p>
+</body>
+</html>
